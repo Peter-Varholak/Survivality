@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A912936B-99D6-AC04-D587-0270D2C93BE1}") = "Survivality", "Assembly-CSharp-vs.csproj", "{CAE1D92D-5594-E4A7-AF98-A104380D7EC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE1D92D-5594-E4A7-AF98-A104380D7EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE1D92D-5594-E4A7-AF98-A104380D7EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE1D92D-5594-E4A7-AF98-A104380D7EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE1D92D-5594-E4A7-AF98-A104380D7EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
